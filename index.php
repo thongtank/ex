@@ -1,2 +1,2 @@
 <?php
-echo "NEW_B";
+echo "MASTER";
